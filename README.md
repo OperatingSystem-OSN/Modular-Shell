@@ -1,6 +1,6 @@
-# Operating Systems Assignment 2 | C Shell
-## Roll No:2021101105
+# Operating Systems C-Shell
 ### Name:Yash Shivhare
+### Roll NUmber:2021101105
 
 
 * > Running Shell
