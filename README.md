@@ -1,6 +1,6 @@
 # Operating Systems C-Shell
 ### Name:Yash Shivhare
-### Roll NUmber:2021101105
+### Roll Number:2021101105
 
 
 * > Running Shell
